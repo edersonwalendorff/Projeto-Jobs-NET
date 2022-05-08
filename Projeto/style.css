@@ -13,14 +13,14 @@
 
 #subtitulo{
     font-family: sans-serif;
-    color: #dda15e;
+    color: #9b5f21!important;
     margin-left: 0%;
     text-align: center;
     padding: 1em;
 }
 
 #experiencia{
-    margin-left: 30%;
+    margin-left: 23%;
     padding: 1em;
 }
 
@@ -187,7 +187,7 @@ fieldset.grupo .campo{
     background:#bc6c25;
     border: 0;
     margin-bottom: 1em;
-    margin-top: 20 px;
+    margin-top: 15px;
     color: #FFFFFF;
     padding: 5px 10px;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
